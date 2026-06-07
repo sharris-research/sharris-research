@@ -15,7 +15,7 @@ Reinforcement learning model (Deep Deterministic Policy Gradient) for BTC/USD tr
 
 `Python` `TensorFlow` `Reinforcement Learning` `Crypto Markets`
 
-### Solidity — Smart Contract Development
+### Solidity - Smart Contract Development
 Academic implementations of on-chain protocols including stablecoin mechanisms, governance contracts, and mint/burn logic. 
 
 `Solidity` `ERC20` `DeFi` `Smart Contracts`
