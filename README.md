@@ -25,7 +25,7 @@ Momentum (MA crossover) and mean-reversion (Bollinger Bands) strategies on the S
 
 `Python` `Algorithmic Trading` `Fixed Income` `Statistical Analysis`
 
-### [KYC Assistant App](link-to-repo)
+### [KYC Assistant App](https://github.com/sharris-research/kyc-assistant-app)
 A Python/Flask web app for automated KYC data extraction from UK Companies House, deployed on PythonAnywhere. Built using agile methodology across a four-week sprint cycle.
 
 `Python` `Flask` `API Integration` `FinTech`
