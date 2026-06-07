@@ -47,4 +47,3 @@ I write about crypto market structure, tokenisation infrastructure, and the occa
 
 ---
 
-[LinkedIn](your-linkedin) · [Substack](your-substack) · [Portfolio](your-portfolio-site)
