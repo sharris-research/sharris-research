@@ -20,7 +20,7 @@ Academic implementations of on-chain protocols including stablecoin mechanisms, 
 
 `Solidity` `ERC20` `DeFi` `Smart Contracts`
 
-### [Algorithmic Trading Strategies](link-to-repo)
+### [Algorithmic Trading Strategies](https://github.com/sharris-research/algorithmic-trading-strategies)
 Momentum (MA crossover) and mean-reversion (Bollinger Bands) strategies on the SPTL long-duration Treasury ETF. Sharpe up to 1.68, Calmar ratio 3.48. Analysis covers performance across macro regimes and the cost of leverage in range-bound vs trending markets.
 
 `Python` `Algorithmic Trading` `Fixed Income` `Statistical Analysis`
@@ -34,8 +34,7 @@ A Python/Flask web app for automated KYC data extraction from UK Companies House
 
 ## Writing
 
-I write about crypto market structure, tokenisation infrastructure, and the occasional quantitative deep-dive. Published on [Substack](link-to-substack).
-
+I write about crypto market structure, tokenisation infrastructure, and the occasional quantitative deep-dive.
 ---
 
 ## Background
