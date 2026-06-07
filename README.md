@@ -11,7 +11,7 @@ I am interested in the intersection of crypto market structure, tokenisation, an
 ## Projects
 
 ### [DDPG Crypto Trading Model](link-to-repo)
-Reinforcement learning model (Deep Deterministic Policy Gradient) for BTC/USD trading under realistic fee constraints. Key finding: high-frequency RL strategies are fundamentally uneconomical in live markets — fee drag erodes returns even when the underlying strategy is profitable in frictionless environments. Sharpe ~1.5 (no-fee), 8.3% ROI.
+Reinforcement learning model (Deep Deterministic Policy Gradient) for BTC/USD trading under realistic fee constraints. Key finding: high-frequency RL strategies are fundamentally uneconomical in live markets - fee drag erodes returns even when the underlying strategy is profitable in frictionless environments. Sharpe ~1.5 (no-fee), 8.3% ROI.
 
 `Python` `TensorFlow` `Reinforcement Learning` `Crypto Markets`
 
@@ -40,7 +40,7 @@ I write about crypto market structure, tokenisation infrastructure, and the occa
 
 ## Background
 
-- **UCL MSc FinTech** — Distinction, 2024–25
+- **UCL MSc FinTech** - Distinction, 2024–25
 - **10 years** in financial analysis and digital asset markets
 
 **Tools:** Python · PySpark · Solidity · Dune
