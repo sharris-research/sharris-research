@@ -35,6 +35,7 @@ A Python/Flask web app for automated KYC data extraction from UK Companies House
 ## Writing
 
 I write about crypto market structure, tokenisation infrastructure, and the occasional quantitative deep-dive.
+
 ---
 
 ## Background
