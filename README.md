@@ -10,7 +10,7 @@ I am interested in the intersection of crypto market structure, tokenisation, an
 
 ## Projects
 
-### [DDPG Crypto Trading Model](link-to-repo)
+### [DDPG Crypto Trading Model](https://github.com/sharris-research/ddpg-crypto-trading)
 Reinforcement learning model (Deep Deterministic Policy Gradient) for BTC/USD trading under realistic fee constraints. Key finding: high-frequency RL strategies are fundamentally uneconomical in live markets - fee drag erodes returns even when the underlying strategy is profitable in frictionless environments. Sharpe ~1.5 (no-fee), 8.3% ROI.
 
 `Python` `TensorFlow` `Reinforcement Learning` `Crypto Markets`
